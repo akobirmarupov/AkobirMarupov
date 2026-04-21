@@ -7,22 +7,15 @@ ________________________________________________________________________________
 
 My work primarily involves:
 * Developing RESTful APIs and microservices using **Django REST Framework**.
-* Creating sophisticated Telegram ecosystems with **aiogram 3.x**.
 * Optimizing database interactions with **PostgreSQL**.
 * Exploring DevOps practices to streamline deployment and scalability.
 ________________________________________________________________________________________________________________________________________
 ## 🌐 Socials:
 
 <p align="left">
-  <a href="https://linkedin.com/in/akobir-marupov-55b528401/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akobir Marupov LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://t.me/akobir_nova" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Akobir Telegram" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/akobir_marupov/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Akobir Instagram" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/akobir-marupov-55b528401/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
+<a href="https://t.me/akobir_nova" target="blank"><img src="https://skillicons.dev/icons?i=telegram" height="35" /></a>
+<a href="https://www.instagram.com/akobir_marupov/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="35" /></a>
 </p>
 __________________________________________________________________________________________________________________________________________
 
