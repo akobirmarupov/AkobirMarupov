@@ -1,15 +1,28 @@
 ## Akobir Marupov
 ______________________________________________________________________________________________________________________________________
-I am a Python developer, well-versed in generators, decorators, asynchronous programming, and data structures. Due to my experience with C++, I write efficient and optimized code. I have worked with Django and FastAPI, creating clean, modular, and easy-to-read code.
+I am a dedicated **Backend Developer** specializing in building high-performance systems with **Python**. Leveraging my background in **C++**, I focus on writing highly efficient, optimized, and scalable code. I have a proven track record of developing clean and modular applications using **Django** and **FastAPI**, always prioritizing readability and long-term maintainability.
 _______________________________________________________________________________________________________________________________________
 ## About Me
-<a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="15px" height="15px" alt="python"></a> I am currently a Python developer working on projects to deepen my practical skills and master the Python programming language. I am now working on projects using Django and FastAPI to enhance my practical skills in Python.
+<a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="15px" height="15px" alt="python"></a> I am a **Software Engineering student at TUIT** with a passion for backend architecture. Currently, I am focused on deepening my practical expertise by architecting complex web solutions and advanced automation tools. 
+
+My work primarily involves:
+* Developing RESTful APIs and microservices using **Django REST Framework**.
+* Creating sophisticated Telegram ecosystems with **aiogram 3.x**.
+* Optimizing database interactions with **PostgreSQL**.
+* Exploring DevOps practices to streamline deployment and scalability.
 ________________________________________________________________________________________________________________________________________
 ## 🌐 Socials:
 
-[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="42" height="42">](https://www.linkedin.com/in/[[sizning_profil_nomingiz](https://www.linkedin.com/in/akobir-marupov-ab0b5b309/)])
-[<img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Telegram" width="42" height="42">](https://t.me/[yourusername](https://t.me/akobir_marupov))
-[<img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Instagram" width="42" height="42">](https://www.instagram.com/[yourusername](https://www.instagram.com/akobir_marupov?igsh=MTlkeXpncW9kejVqbg==))
-[<img src="https://cdn-icons-png.flaticon.com/128/733/733646.png" alt="YouTube" width="42" height="42">](https://www.youtube.com/@[yourusername](https://www.youtube.com/@akobir_marupov))
+<p align="left">
+  <a href="https://linkedin.com/in/akobir-marupov-55b528401/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akobir Marupov LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://t.me/akobir_nova" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Akobir Telegram" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/akobir_marupov/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Akobir Instagram" height="30" width="40" />
+  </a>
+</p>
 __________________________________________________________________________________________________________________________________________
 
