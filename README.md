@@ -1,6 +1,6 @@
 ## Akobir Marupov
 ______________________________________________________________________________________________________________________________________
-I am a dedicated **Backend Developer** specializing in building high-performance systems with **Python**. Leveraging my background in **C++**, I focus on writing highly efficient, optimized, and scalable code. I have a proven track record of developing clean and modular applications using **Django** and **FastAPI**, always prioritizing readability and long-term maintainability.
+I am a dedicated **Backend Developer** specializing in building high-performance systems with **Python**., I focus on writing highly efficient, optimized, and scalable code. I have a proven track record of developing clean and modular applications using **Django** and **FastAPI**, always prioritizing readability and long-term maintainability.
 _______________________________________________________________________________________________________________________________________
 ## About Me
 <a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="15px" height="15px" alt="python"></a> I am a **Software Engineering student at TUIT** with a passion for backend architecture. Currently, I am focused on deepening my practical expertise by architecting complex web solutions and advanced automation tools. 
